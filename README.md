@@ -8,6 +8,10 @@ Welcome to my profile bro, how can i help?
 - 🌱 I’m currently learning Typescript,JavaScript,Html,CSS.
 - 📫 How to reach me: skibidisigmarizzzzzz0@gmail.com
 
+ <p align="center">
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="nz" width="700"/>
+</p>
+
 
 ## GitHub Stats
 
