@@ -1,16 +1,12 @@
 # Hi there, I'm skibidisigmariz1! 👋
 
 
-Welcome to my GitHub profile! I'm a passionate developer and anime enthusiast. Let's create something amazing together!
+Welcome to my profile bro, how can i help?
 
 ## About Me
 
 - 🌱 I’m currently learning Typescript,JavaScript,Html,CSS.
-- 📫 How to reach me: skibidisigmarizzzzzz0@gmail.com.
-
-## My Skills
-
-- **Languages:** Javascript, Typescript 
+- 📫 How to reach me: skibidisigmarizzzzzz0@gmail.com
 
 
 ## GitHub Stats
@@ -19,12 +15,11 @@ Welcome to my GitHub profile! I'm a passionate developer and anime enthusiast. L
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skibidisigmariz1&layout=compact&theme=radical)
 
 
-## Let's Connect
+## Let's Connect Dude!
 
 - [LinkedIn](https://ph.linkedin.com/in/skibidi-sigma-19b80b341)
 - [Twitter](https://x.com/markyaxy)
 - [Personal Website](https://beta-rest-api.onrender.com)
 
-Thank you for visiting my profile! 😊
 
 ![Footer](https://imgur.com/UYKgip4.gif)
