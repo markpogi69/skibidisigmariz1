@@ -1,4 +1,4 @@
-# Hi there, I'm skibidisigmariz1! 👋
+# Hi there, I'm @markcxzs! 👋
 
 
 Welcome to my profile bro, how can i help?
@@ -15,8 +15,8 @@ Welcome to my profile bro, how can i help?
 
 ## GitHub Stats
 
-![skibidisigmariz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=skibidisigmariz1&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=skibidisigmariz1&layout=compact&theme=radical)
+![skibidisigmariz1's GitHub stats](https://github-readme-stats.vercel.app/api?username=markpogi69&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=markpogi69&layout=compact&theme=radical)
 
 
 ## Let's Connect Dude!
