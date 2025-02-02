@@ -1,0 +1,72 @@
+{
+  "name": "daiki-bot",
+  "version": "1.0.0",
+  "description": "A simple Facebook Messenger Bot",
+  "main": "index.js",
+  "engines": {
+    "node": "20.x",
+    "npm": "10.8.2"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "bot",
+    "facebook",
+    "messenger"
+  ],
+  "author": "mark",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "dependencies": {
+    "gradient-string": "latest",
+    "daiki-fca": "latest",
+    "dompurify": "latest",
+    "jsdom": "latest",
+    "sanitize-html": "latest",
+    "mongodb": "^6.12.0",
+    "priyansh-fb-downloader": "^2.0.0",
+    "sqlite3": "^5.1.7",
+    "tempy": "^0.4.0",
+    "kleur": "latest",
+    "@xaviabot/fb-downloader": "^1.0.14",
+    "1secmail-api": "^1.1.1",
+    "axios": "^1.7.2",
+    "bluebird": "latest",
+    "body-parser": "^1.20.2",
+    "chalk": "^5.4.1",
+    "cheerio": "^0.22.0",
+    "child_process": "^1.0.2",
+    "express": "^4.19.2",
+    "express-rate-limit": "^7.4.1",
+    "fs-extra": "^11.2.0",
+    "g4f": "^1.4.6",
+    "googleapis": "^144.0.0",
+    "hercai": "^12.2.0",
+    "https-proxy-agent": "^4.0.0",
+    "mime-types": "^2.1.35",
+    "moment-timezone": "",
+    "mqtt": "latest",
+    "node-cron": "^3.0.3",
+    "node-fetch": "",
+    "npmlog": "latest",
+    "pastebin-api": "^7.0.0",
+    "pidusage": "^3.0.2",
+    "request": "latest",
+    "rsnchat": "^4.0.1",
+    "ryuu-fca-api": "^3.2.2",
+    "simple-youtube-api": "^5.2.1",
+    "unlimited-ai": "^4.0.0",
+    "websocket-stream": "^5.5.0",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.5",
+    "ws3-fca": "^1.0.41"
+  }
+}
